@@ -1,0 +1,10 @@
+/* src/app/contact/contact.module.css */
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  color: #0070f3;
+  margin-bottom: 20px;
+}
