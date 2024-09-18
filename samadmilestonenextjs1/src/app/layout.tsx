@@ -1,3 +1,4 @@
+// src/app/layout.tsx
 import './globals.css'; // Global styles
 import Link from 'next/link';
 
@@ -14,7 +15,7 @@ export default function RootLayout({
       <body>
         <header style={{ padding: '10px', background: '#ddd' }}>
           <nav>
-            <Link href="/">Home</Link> | <Link href="/about">About</Link> |{" "}
+            <Link href="/">Home</Link> | <Link href="/about">About</Link> |{' '}
             <Link href="/contact">Contact</Link>
           </nav>
         </header>

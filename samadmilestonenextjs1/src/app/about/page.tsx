@@ -1,6 +1,5 @@
-// src/app/about/page.tsx
 import Link from 'next/link';
-import styles from './about.module.css';
+import styles from './About.module.css';
 
 export default function About() {
   return (

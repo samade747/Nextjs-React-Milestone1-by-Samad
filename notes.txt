@@ -1,6 +1,0 @@
-1step) installing node.js
-by nodejs.org 
-
-2step) vs code 
-
-3) 

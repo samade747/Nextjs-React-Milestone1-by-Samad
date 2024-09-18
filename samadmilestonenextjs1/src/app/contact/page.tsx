@@ -1,4 +1,3 @@
-// src/app/contact/page.tsx
 import Link from 'next/link';
 import styles from './contact.module.css';
 
