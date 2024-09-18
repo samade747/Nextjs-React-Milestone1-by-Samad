@@ -1,0 +1,11 @@
+.helloWorld{
+    color: red
+    font-size: 50px;
+    text-align: center;
+    font-family: var(--font-geist-sans);
+    font-weight: 900;
+    line-height: 1;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.5), 0 0 0.45em currentColor;
+}
