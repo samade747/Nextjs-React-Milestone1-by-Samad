@@ -1,8 +1,9 @@
 /* src/app/layout.module.css */
 .header {
     padding: 10px;
-    background: #ff0000;
+    background: #ff1f1f;
     width: 100%;
+    color: white;
   }
   
   .main {
