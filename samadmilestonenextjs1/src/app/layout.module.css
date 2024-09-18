@@ -1,0 +1,25 @@
+/* src/app/layout.module.css */
+.header {
+    padding: 10px;
+    background: #ddd;
+    width: 100%;
+  }
+  
+  .main {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .footer {
+    padding: 10px;
+    background: #ddd;
+    width: 100%;
+    text-align: center;
+  }
+  
+
+  .footw{
+    color: #ff0000;
+    font-size: 20px;
+  }
