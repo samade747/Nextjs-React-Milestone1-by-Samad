@@ -16,7 +16,8 @@ export default function RootLayout({
       <body>
         <header className={styles.header}>
           <nav>
-            <Link href="/">Home</Link> | <Link href="/about">About</Link> |{' '}
+            <Link href="/">Home</Link> 
+            <Link href="/about">About</Link> 
             <Link href="/contact">Contact</Link>
           </nav>
         </header>
